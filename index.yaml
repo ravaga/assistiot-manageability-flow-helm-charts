@@ -1,20 +1,9 @@
 apiVersion: v1
 entries:
-  flow-core:
-  - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2022-10-18T11:06:14.864027414+02:00"
-    description: A Helm chart for the core element of the low manageability enabler
-    digest: f86299d814396d62b1601a79ff527e96413871aee115186438461c12f369eae1
-    name: flow-core
-    type: application
-    urls:
-    - https://ravaga.github.io/assistiot-manageability-flow-helm-charts/flow-core-0.0.1.tgz
-    version: 0.0.1
   flowmqtthttp:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-10-18T11:06:14.864649002+02:00"
+    created: "2022-10-18T16:25:51.03025379+02:00"
     description: MQTT to HTTP agent for the Flow manageability enabler
     digest: e9e02bf1d812fe98066a3937d2f5231a85bb670558b01ee283256d15fd7d5fe9
     name: flowmqtthttp
@@ -22,4 +11,15 @@ entries:
     urls:
     - https://ravaga.github.io/assistiot-manageability-flow-helm-charts/flowmqtthttp-0.0.1.tgz
     version: 0.0.1
-generated: "2022-10-18T11:06:14.860913405+02:00"
+  manageability-flow:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-18T16:25:51.031174836+02:00"
+    description: A Helm chart for the Manageability flow enabler
+    digest: 6d4d8974d75b3eb4697a00d18653b315fc473e55aa7a67d15888423bc98511b2
+    name: manageability-flow
+    type: application
+    urls:
+    - https://ravaga.github.io/assistiot-manageability-flow-helm-charts/manageability-flow-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-10-18T16:25:51.029501862+02:00"
