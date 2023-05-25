@@ -3,10 +3,10 @@ entries:
   agenthttpmqtt:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-24T19:01:49.502118022+02:00"
+    created: "2023-05-25T17:51:56.567170178+02:00"
     description: HTTP to MQTT agent for the Composite services manager of the ASSIST-IoT's
       manageability enablers
-    digest: 598e3b0d6cb24839e47f07d40e7d3bbe723ab4100971bd0f69f9dca7c974f2b9
+    digest: 94f08ac04d20a205716bd25a648e2bb71b7a1a5a39095105faa5afccace20bfc
     name: agenthttpmqtt
     type: application
     urls:
@@ -15,10 +15,10 @@ entries:
   agentmqtthttp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-24T19:01:49.502504129+02:00"
+    created: "2023-05-25T17:51:56.567645777+02:00"
     description: MQTT to HTTP agent for the HTTP to MQTT agent for the Composite services
       manager of the ASSIST-IoT's manageability enablers
-    digest: 402a6e1e4e84c67c017569c15ba730cd4cc623c25e3440e44173125c6bf1df03
+    digest: b0d1205fcb15fb4b8a14b108d27281c94a490643951065da256b30c712ddaeb8
     name: agentmqtthttp
     type: application
     urls:
@@ -27,7 +27,7 @@ entries:
   manageability-flow:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-24T19:01:49.503091456+02:00"
+    created: "2023-05-25T17:51:56.568289381+02:00"
     description: A Helm chart for the Manageability flow enabler
     digest: 795b4845123eb5522bb9e4e647f9eac1cc5330bef1621c82904a0448ee4a5e77
     name: manageability-flow
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://ravaga.github.io/assistiot-manageability-flow-helm-charts/manageability-flow-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-24T19:01:49.50148034+02:00"
+generated: "2023-05-25T17:51:56.566438181+02:00"
