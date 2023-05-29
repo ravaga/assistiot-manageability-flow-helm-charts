@@ -3,7 +3,7 @@ entries:
   agenthttpmqtt:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-29T17:12:32.450047423+02:00"
+    created: "2023-05-29T17:27:18.216205779+02:00"
     description: HTTP to MQTT agent for the Composite services manager of the ASSIST-IoT's
       manageability enablers
     digest: 94f08ac04d20a205716bd25a648e2bb71b7a1a5a39095105faa5afccace20bfc
@@ -15,7 +15,7 @@ entries:
   agentmqtthttp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-29T17:12:32.450551863+02:00"
+    created: "2023-05-29T17:27:18.216632611+02:00"
     description: MQTT to HTTP agent for the HTTP to MQTT agent for the Composite services
       manager of the ASSIST-IoT's manageability enablers
     digest: b0d1205fcb15fb4b8a14b108d27281c94a490643951065da256b30c712ddaeb8
@@ -27,10 +27,10 @@ entries:
   composite-services:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-29T17:12:32.452267725+02:00"
+    created: "2023-05-29T17:27:18.217576607+02:00"
     description: A Helm chart for the Composite services enabler, part of ASSIST-IoT
       manageability enablers
-    digest: 80b55b5899331ae5acc25ebf3e530afeb7dfcc3717625e67f2d216bc9ba0f23a
+    digest: e94b727f4bd3d8ad79ac442f58cce14451ab717475769071eb77fca23f116098
     maintainers:
     - email: ravagar2@upv.es
       name: Rafa Vaño
@@ -39,4 +39,4 @@ entries:
     urls:
     - https://ravaga.github.io/assistiot-manageability-flow-helm-charts/composite-services-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-29T17:12:32.449389047+02:00"
+generated: "2023-05-29T17:27:18.215435828+02:00"
